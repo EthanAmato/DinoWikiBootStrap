@@ -1,0 +1,7 @@
+Titus didn't let me upload text, so here's the link to my github and a Github Pages where the site is hosted:
+
+Code:
+https://github.com/EthanAmato/MultipageHTML
+
+Hosted on Pages:
+https://ethanamato.github.io/MultipageHTML/index.html
