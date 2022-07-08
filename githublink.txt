@@ -4,4 +4,4 @@ Code:
 https://github.com/EthanAmato/DinoWikiBootStrap
 
 Hosted on Pages:
-https://ethanamato.github.io/DinoWikiBootStrap/index.html
+https://ethanamato.github.io/DinoWikiBootStrap/
