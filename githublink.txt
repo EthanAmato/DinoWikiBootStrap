@@ -1,7 +1,7 @@
 Titus didn't let me upload text, so here's the link to my github and a Github Pages where the site is hosted:
 
 Code:
-https://github.com/EthanAmato/MultipageHTML
+https://github.com/EthanAmato/DinoWikiBootStrap
 
 Hosted on Pages:
-https://ethanamato.github.io/MultipageHTML/index.html
+https://ethanamato.github.io/DinoWikiBootStrap/index.html
